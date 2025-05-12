@@ -13,12 +13,12 @@ Este relatório preliminar descreve a análise exploratória realizada sobre os 
 
 ## Escolha dos Dados e Metodologia de Aquisição
 
-Para esta análise, foram selecionadas fontes de dados públicas e reconhecidas, visando garantir a robustez e a replicabilidade dos resultados.
+Para esta análise, foram selecionadas fontes de dados públicas e reconhecidas, visando o fácil acesso e a replicabilidade dos resultados.
 
 ### Fontes de Dados
 
 1.  **Dados de Desmatamento:** Utilizaram-se os incrementos anuais de desmatamento provenientes do projeto PRODES, disponibilizados pelo Instituto Nacional de Pesquisas Espaciais (INPE) através da plataforma TerraBrasilis. Estes dados são shapefiles que representam os polígonos de desmatamento detectados anualmente.
-2.  **Limites Municipais:** Os shapefiles contendo os limites dos municípios do estado do Pará foram obtidos junto ao Instituto Brasileiro de Geografia e Estatística (IBGE).
+2.  **Limites Municipais:** Os shapefiles contendo os limites dos municípios do estado do Pará foram obtidos junto ao Instituto Brasileiro de Geografia e Estatística (Dados Públicos/IBGE).
 3.  **Indicadores Socioeconômicos:** Foram empregados os dados do Índice de Progresso Social (IPS) Brasil, uma iniciativa do Social Progress Imperative. O IPS Brasil fornece uma medida multidimensional do desenvolvimento social para todos os municípios brasileiros, baseada em 53 indicadores secundários de fontes públicas, agrupados em três dimensões principais: Necessidades Humanas Básicas, Fundamentos do Bem-estar e Oportunidades. Além do índice geral, foram considerados o PIB per capita municipal.
 
 ### Metodologia de Aquisição e Processamento
